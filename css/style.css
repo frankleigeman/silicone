@@ -1,11 +1,12 @@
 body {
 	min-width: 480px;
 	background: #EAEDF0;
+	margin: 0;
 }
 .block {
 	width: 480px;
 	margin: 0 auto;
-	padding: 75px 0 0;
+	padding: 0;
 }
 h1 {
 	font-size: 42px;
