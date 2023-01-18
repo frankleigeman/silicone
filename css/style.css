@@ -45,14 +45,12 @@ body {
 	font-size: 36px;
 	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
 	color: #4453F9;
-	text-align: center;
 	font-weight: bold;
 }
 .action {
 	font-size: 36px;
 	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
 	color: #040404;
-	text-align: center;
 	font-weight: bold;
 }
 .buy {
@@ -61,7 +59,6 @@ body {
 	font-size: 36px;
 	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
 	font-weight: bold;
-	text-align: center;
 }
 .text {
 	text-align: center;
@@ -72,4 +69,7 @@ body {
 	text-align: center;
 	width: 340px;
 	height: 40px;
+}
+.order p {
+	text-align: center;
 }
