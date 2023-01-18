@@ -1,0 +1,56 @@
+body {
+	background: #EAEDF0;
+}
+h1 {
+	font-size: 42px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	text-align: center;
+	color: #4453F9;
+}
+
+p {
+	font-size: 20px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	text-align: center;
+	color: #000000;
+}
+
+.block {
+	
+}
+
+.desc {
+	font-size: 24px;
+	color: #FF0000;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	text-align: justify;
+}
+
+.price {
+	font-size: 36px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	color: #272727;
+	text-align: center;
+	font-weight: bold;
+}
+
+.action {
+	font-size: 36px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	color: #436363;
+	text-align: center;
+	font-weight: bold;
+}
+
+.pics img {
+	width: 400px;
+}
+
+.buy {
+	color: #6F6E71;
+	background-color: #E3E3E3;
+	font-size: 36px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-weight: bold;
+	
+}
