@@ -23,13 +23,20 @@ body {
 	font-size: 42px;
 	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
 	color: #040404;
+	margin-top: 10px;
+	margin-bottom: 10px;
 }
-.block h2 {
+.dost {
+	width: 480px;
+	margin: 0 auto;
+	padding: 0;
+}
+.block .dost h2 {
 	font-size: 32px;
 	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
 	color: #040404;
 }
-.prod p {
+.prod .dost p {
 	font-size: 20px;
 	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
 	text-align: center;
